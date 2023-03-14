@@ -3,11 +3,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Alunos aluno1 = new Alunos();
-        aluno1.nome = "Guilherme Lene";
-        aluno1.nota1 = 4.3;
-        aluno1.nota2 = 7.8;
+        Console.WriteLine("Digite seu nome: ");
+        string? nome = Console.ReadLine();
+        Console.WriteLine("*****************************");
 
-        aluno1.mensagem();
+        Console.WriteLine("Digite um número real");
+        double numero = double.Parse(Console.ReadLine());
+        Console.WriteLine("O número digitado é: " + numero);
     }
 }
