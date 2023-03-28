@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\projetopessoa\bin\Debug\net6.0\projetopessoa.exe
+C:\Users\LAB4\Desktop\projetopessoa\bin\Debug\net6.0\projetopessoa.deps.json
+C:\Users\LAB4\Desktop\projetopessoa\bin\Debug\net6.0\projetopessoa.runtimeconfig.json
+C:\Users\LAB4\Desktop\projetopessoa\bin\Debug\net6.0\projetopessoa.dll
+C:\Users\LAB4\Desktop\projetopessoa\bin\Debug\net6.0\projetopessoa.pdb
+C:\Users\LAB4\Desktop\projetopessoa\obj\Debug\net6.0\projetopessoa.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\projetopessoa\obj\Debug\net6.0\projetopessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\projetopessoa\obj\Debug\net6.0\projetopessoa.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\projetopessoa\obj\Debug\net6.0\projetopessoa.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\projetopessoa\obj\Debug\net6.0\projetopessoa.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\projetopessoa\obj\Debug\net6.0\projetopessoa.dll
+C:\Users\LAB4\Desktop\projetopessoa\obj\Debug\net6.0\refint\projetopessoa.dll
+C:\Users\LAB4\Desktop\projetopessoa\obj\Debug\net6.0\projetopessoa.pdb
+C:\Users\LAB4\Desktop\projetopessoa\obj\Debug\net6.0\projetopessoa.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\projetopessoa\obj\Debug\net6.0\ref\projetopessoa.dll
