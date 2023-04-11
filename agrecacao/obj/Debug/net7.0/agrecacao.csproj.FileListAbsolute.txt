@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\agrecacao\bin\Debug\net7.0\agrecacao.exe
+C:\Users\LAB4\Desktop\agrecacao\bin\Debug\net7.0\agrecacao.deps.json
+C:\Users\LAB4\Desktop\agrecacao\bin\Debug\net7.0\agrecacao.runtimeconfig.json
+C:\Users\LAB4\Desktop\agrecacao\bin\Debug\net7.0\agrecacao.dll
+C:\Users\LAB4\Desktop\agrecacao\bin\Debug\net7.0\agrecacao.pdb
+C:\Users\LAB4\Desktop\agrecacao\obj\Debug\net7.0\agrecacao.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\agrecacao\obj\Debug\net7.0\agrecacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\agrecacao\obj\Debug\net7.0\agrecacao.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\agrecacao\obj\Debug\net7.0\agrecacao.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\agrecacao\obj\Debug\net7.0\agrecacao.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\agrecacao\obj\Debug\net7.0\agrecacao.dll
+C:\Users\LAB4\Desktop\agrecacao\obj\Debug\net7.0\refint\agrecacao.dll
+C:\Users\LAB4\Desktop\agrecacao\obj\Debug\net7.0\agrecacao.pdb
+C:\Users\LAB4\Desktop\agrecacao\obj\Debug\net7.0\agrecacao.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\agrecacao\obj\Debug\net7.0\ref\agrecacao.dll
