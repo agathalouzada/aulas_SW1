@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\projeto_banco\bin\Debug\net7.0\projeto_banco.exe
+C:\Users\LAB4\Desktop\projeto_banco\bin\Debug\net7.0\projeto_banco.deps.json
+C:\Users\LAB4\Desktop\projeto_banco\bin\Debug\net7.0\projeto_banco.runtimeconfig.json
+C:\Users\LAB4\Desktop\projeto_banco\bin\Debug\net7.0\projeto_banco.dll
+C:\Users\LAB4\Desktop\projeto_banco\bin\Debug\net7.0\projeto_banco.pdb
+C:\Users\LAB4\Desktop\projeto_banco\obj\Debug\net7.0\projeto_banco.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\projeto_banco\obj\Debug\net7.0\projeto_banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\projeto_banco\obj\Debug\net7.0\projeto_banco.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\projeto_banco\obj\Debug\net7.0\projeto_banco.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\projeto_banco\obj\Debug\net7.0\projeto_banco.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\projeto_banco\obj\Debug\net7.0\projeto_banco.dll
+C:\Users\LAB4\Desktop\projeto_banco\obj\Debug\net7.0\refint\projeto_banco.dll
+C:\Users\LAB4\Desktop\projeto_banco\obj\Debug\net7.0\projeto_banco.pdb
+C:\Users\LAB4\Desktop\projeto_banco\obj\Debug\net7.0\projeto_banco.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\projeto_banco\obj\Debug\net7.0\ref\projeto_banco.dll
